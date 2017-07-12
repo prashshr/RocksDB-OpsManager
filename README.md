@@ -2,8 +2,8 @@
 
 A RocksDB engine (Using Persona binary) based implementation of MongoDB Ops Manager.
 
-Operating System: Ubuntu:16.0
-RockDb Version: 3.2.13-3.3
+- Operating System: Ubuntu:16.04
+- RockDb Version: 3.2.13-3.3
 
 Features:
 - A much faster user experience on webportal.
