@@ -1,0 +1,11 @@
+version: '3.0'
+services:
+  scope:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    expose:
+      - 8080
+      - 27017
+    ports:
+      - "8080:8080"
