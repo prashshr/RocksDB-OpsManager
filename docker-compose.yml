@@ -3,7 +3,6 @@ services:
   scope:
     build:
       context: .
-      dockerfile: Dockerfile
     expose:
       - 8080
       - 27017
