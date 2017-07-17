@@ -14,7 +14,7 @@ Features
 
 Note
 ------------------------
-- Default password for root and nginxuser is "rocksdbuser". CHANGE IT!
+- Default password for root and rocksdbuser is "rocksdbuser". CHANGE IT!
 - Default listening port for Ops Managera portal is 8080.
 
 
